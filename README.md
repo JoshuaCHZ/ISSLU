@@ -1,2 +1,2 @@
 # ISSLU
-International students self learning unit for Wellington College, NZ
+International students self learning unit of Wellington College, NZ
